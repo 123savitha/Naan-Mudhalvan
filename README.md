@@ -115,7 +115,7 @@ All trained using SMOTE-balanced data.
 ## 🚀 Deployment
 
 - **Platform:** Streamlit Cloud
-- **App Link:** [https://creditfraud.streamlit.app](https://creditfraud.streamlit.app)
+- **App Link:** [https://naan-mudhalvan-funcstzeen3bguwnbsdtdp.streamlit.app/]
 - **Deployment Method:** Uploaded via GitHub → connected to Streamlit Cloud
 - **UI Includes:**
   - Transaction input fields
