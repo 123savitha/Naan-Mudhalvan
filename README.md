@@ -149,11 +149,3 @@ credit-card-fraud-detection/
 
 ---
 
-## 👨‍💻 How to Run This Project
-
-### 🧬 Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/credit-card-fraud-detection.git
-cd credit-card-fraud-detection
-
