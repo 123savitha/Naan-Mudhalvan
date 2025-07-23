@@ -48,5 +48,32 @@ Classifying whether a credit card transaction is **fraudulent (1)** or **legitim
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/credit-card-fraud-detection.git
+   git clone https://github.com/123savitha/Naan-Mudhalvan.git
    cd credit-card-fraud-detection
+2.**pip install -r requirements.txt**
+3.**streamlit run app/streamlit_app.py**
+graph LR
+A[Data Collection] --> B[Preprocessing]
+B --> C[EDA]
+C --> D[Feature Engineering]
+D --> E[Modeling]
+E --> F[Evaluation]
+F --> G[Deployment]
+**📊 Model Comparison**
+Model	Accuracy	Precision	Recall	F1-Score
+Logistic Regression	97.3%	73%	65%	69%
+Random Forest	99.8%	92%	86%	89%
+XGBoost	99.9%	93%	87%	90%
+
+✅ Final Model: XGBoost — best trade-off between recall and precision
+📈 Evaluation Metrics
+Confusion Matrix
+
+ROC-AUC Curve
+
+Classification Report
+
+Cross-Validation Scores
+
+
+
